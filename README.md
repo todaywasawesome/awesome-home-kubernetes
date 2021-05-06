@@ -36,9 +36,10 @@ A curation of projects and resources  involving running Kubernetes at home. ⛵
 | [auricom/home-cluster](https://github.com/auricom/home-cluster) | Flux2/Gitops managed cluster running on k3s                                                                                                                                                                          |
 | [mcfio/GitOps](https://github.com/mcfio/GitOps) | ARM64 based Kubernetes cluster managed by FluxV2, using Git as a "single source of truth." |
 | [DirtyCajunRice/GitOps-Argo-CD](https://github.com/DirtyCajunRice/GitOps-Argo-CD) | Argo CD managed cluster |
+| [todaywasawesome/atomic-cluster](https://github.com/todaywasawesome/atomic-cluster) | 5-node home lab x86/arm built on Atomic Pis for under $250. |
 ## Helm chart repositories
 
-| Respository                                                               | Description                                                                     |
+| Repository                                                               | Description                                                                     |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [k8s-at-home/charts](https://github.com/k8s-at-home/charts)               | Helm charts for applications you run at home                                    |
 | [nicholaswilde/helm-charts](https://github.com/nicholaswilde/helm-charts) | [@nicholaswilde](https://github.com/nicholaswilde)'s collection of Helm charts. |
